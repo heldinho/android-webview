@@ -8,6 +8,8 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
+// https://www.youtube.com/watch?v=6U8-_G5yjwA
+
 public class MainActivity extends AppCompatActivity {
 
     WebView web;
